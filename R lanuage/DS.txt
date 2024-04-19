@@ -1,0 +1,11 @@
+complete business statistics 
+
+
+
+44+50+38+96+42+47+40+39+46+50
+
+mean:- 49.5   
+var:- 288.94
+SD :- 17
+range :- 58
+median :- 45
